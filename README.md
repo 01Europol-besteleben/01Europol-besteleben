@@ -33,13 +33,20 @@
 
 
 
-## Beste Lookup
+## Beste Lookup USW
 
 <p align="center">
   <a href="https://discord.gg/n6EahY6bwT" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+  <a href="https://discord.gg/NpxANuNxKz" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://guns.lol/01Europol" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
+
 
 ---
 
