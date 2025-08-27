@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, ich bin [DEIN NAME]</h1>
+<h1 align="center">Hi , ich bin 01Europol#besteleben</h1>
 <p align="center">
   🚀 Beginner in der Programmierung<br/>
-  🐍 Lerne gerade <strong>Python</strong><br/>
-  🔧 Spiele manchmal mit <strong>Lua</strong> rum
+  🐍 Lerne gerade <strong>Python</strong><br/> 
 </p>
 
 ---
