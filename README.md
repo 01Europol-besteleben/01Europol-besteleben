@@ -29,8 +29,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEINUSERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=01Europol-besteleben&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Europol-besteleben&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
@@ -38,15 +38,15 @@
 ## 🧠 Was ich gerade mache
 
 - 🌱 Ich lerne aktuell **Python**
-- 🧪 Ich teste Lua für kleine Projekte oder Roblox-Scripts
+- 🧪 Ich teste Lua für kleine Projekte [FiveM]
 - 🎯 Ziel: Eigene Tools, kleine Games oder Discord-Bots bauen
 
 ---
 
-## 📫 Kontakt (optional)
+## Beste Lookup
 
 <p align="center">
-  <a href="https://discord.com/users/DEINDISCORDID" target="_blank">
+  <a href="https://discord.gg/n6EahY6bwT" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
