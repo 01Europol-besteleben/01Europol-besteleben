@@ -15,10 +15,10 @@
 
 ## 🛠️ Sprachen & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow)
+![Lua](https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
+
 
 ---
 
