@@ -52,4 +52,4 @@
 
 ---
 
-*README mit ❤️ von mir erstellt*
+*README mit ❤️ erstellt*
