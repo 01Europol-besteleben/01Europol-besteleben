@@ -18,7 +18,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+   <img src="https://img.shields.io/badge/Guns.lol-%23ff0000.svg?style=flat&logo=github&logoColor=white" alt="Guns.lol"/>
   </a>
 </p>
 
