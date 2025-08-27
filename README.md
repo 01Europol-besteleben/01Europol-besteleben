@@ -43,8 +43,8 @@
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://guns.lol/01Europol" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+  <img src="https://img.shields.io/badge/Guns.lol-Ready%20to%20Fire-red?style=flat&logo=firefox&logoColor=white" alt="Guns.lol"/>
+</a>
 </p>
 
 
