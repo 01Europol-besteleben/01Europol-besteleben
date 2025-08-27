@@ -1,7 +1,6 @@
 <h1 align="center">Hi , ich bin 01Europol#besteleben</h1>
 <p align="center">
-  🚀 Beginner in der Programmierung<br/>
-  🐍 Lerne gerade <strong>Python</strong><br/> 
+  🚀 New in the Coding<br/>
 </p>
 
 ---
@@ -32,15 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01Europol-besteleben&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
----
 
-## 🧠 Was ich gerade mache
-
-- 🌱 Ich lerne aktuell **Python**
-- 🧪 Ich teste Lua für kleine Projekte [FiveM]
-- 🎯 Ziel: Eigene Tools, kleine Games oder Discord-Bots bauen
-
----
 
 ## Beste Lookup
 
